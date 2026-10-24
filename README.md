@@ -13,8 +13,4 @@ I'm Naomi Sammut, a Game Developer from Malta and a recent MCAST graduate (BSc H
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" height="40"></a>
 <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.simpleicons.org/github/black" alt="GitHub" title="GitHub" height="40"></picture></a>
 
-## Connect with me
-<a href="https://www.linkedin.com/in/naomisammut/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" height="40"></a>
-<a href="https://discord.com/users/1019587123038408745"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" title="Discord" height="40"></a>
-
 </samp>
