@@ -1,7 +1,7 @@
 <samp>
 
 ## Hi there 👋
-I'm Naomi, a game developer from Malta and a recent MCAST graduate (BSc Hons Digital Games Development, 2:1). I build games in Unity (C#) and Unreal Engine, from mechanics and level design to 3D modelling in Blender.
+I'm Naomi, a website & game developer from Malta and a recent MCAST graduate (BSc Hons Digital Games Development, 2:1). I build games in Unity (C#) and Unreal Engine, from mechanics and level design to 3D modelling in Blender.
 
 ## Tools
 <a href="#"><img src="https://cdn.simpleicons.org/unity/white" alt="Unity" title="Unity" height="40"></a>
