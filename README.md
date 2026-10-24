@@ -3,11 +3,6 @@
 ## Hi there 👋
 I'm Naomi Sammut, a Game Developer from Malta and a recent MCAST graduate (BSc Hons Digital Games Development, 2:1). I build games in Unity (C#) and Unreal Engine, from mechanics and level design to 3D modelling in Blender.
 
-## Currently working on
-- Expanding my portfolio with a website and new / refined game prototypes
-- Earning certifications
-- Building my professional presence online
-
 ## Tools
 <a href="#"><img src="https://cdn.simpleicons.org/unity/white" alt="Unity" title="Unity" height="40"></a>
 <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/unrealengine/white"><img src="https://cdn.simpleicons.org/unrealengine/black" alt="Unreal Engine" title="Unreal Engine" height="40"></picture></a>
